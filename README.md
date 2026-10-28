@@ -1,3 +1,5 @@
+![image_alt](https://github.com/anupgitH/EduImpact-Smart-Curriculum-Assessment-Platform/blob/68b2b88942f99c7f631e80099fef5a4358bd7bef/EduImpact.png)
+
 # EduImpact — Smart Curriculum & Assessment Platform
 
 Production-oriented full-stack starter: FastAPI, React + TypeScript + Vite, SQLAlchemy, MySQL, JWT authentication, Gemini question generation, courses, assessments, analytics.
